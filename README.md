@@ -6,7 +6,7 @@ The global process starts with a collection of txt files, each of one has a full
 
 LDA On the whole corpus (PyLDAvis):
 
-<p>Visualización LDA <a href="https://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/lda_aries.html" target="_blank" rel="noopener noreferrer">Visualización LDA</a>.</p>
+<p> <a href="https://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/lda_aries.html" target="_blank"> Primera versión de visualización</a>.</p>
 
 
 
