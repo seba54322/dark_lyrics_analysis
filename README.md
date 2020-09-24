@@ -15,5 +15,5 @@ LDA On the whole corpus (PyLDAvis): <a href="https://htmlpreview.github.io/?http
 
 tSNE visualization of the 10 closest words, for 10 random words, with PCA into 2 dimensions. <a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/similar_words.png" target="_blank">version 1</a>
 
-Scatterplot visualization of words from Power Metal vs Black Metal, ranked by frequency percentile.<a href="https://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/power_black_v2_pretty.html" target="_blank">version 1</a>
+Scatterplot visualization of words from Power Metal vs Black Metal, ranked by frequency percentile.<a href="https://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/power_black_v2_pretty.html" target="_blank"> version 1</a>
 
