@@ -11,7 +11,7 @@ The notebooks were created to explore the meaning behind a collection of lyrics 
 
 The global process starts with a collection of txt files, each of one has a full album on it, inside a folder for each artist: artist/lyrics_album_n.txt
 
-<a href="http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html" target="_blank">LDA On the whole english corpus (PyLDAvis)</a>
+<a href="http://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/new_lda_total_english.html" target="_blank">LDA On the whole english corpus (PyLDAvis)</a>
 
 <a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/similar_words.png" target="_blank">tSNE visualization of the 10 closest words, for 10 random words, with PCA into 2 dimensions.</a>
 
