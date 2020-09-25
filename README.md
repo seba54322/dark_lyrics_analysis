@@ -15,5 +15,6 @@ The global process starts with a collection of txt files, each of one has a full
 
 <a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/similar_words.png" target="_blank">tSNE visualization of the 10 closest words, for 10 random words, with PCA into 2 dimensions.</a>
 
-<a href="http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html" target="_blank">Scatterplot visualization of words from Power Metal vs Black Metal, ranked by frequency percentile.</a>
+<a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/new_power_black_v3_pretty.html" target="_blank">Scatterplot visualization of words from Power Metal vs Black Metal, ranked by frequency percentile.</a>
 
+<a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/power_black_LOPriorvsLog_pretty.html" target="_blank">More sophisticated Scattertext visualization of words comparisson of Power Metal vs Black Metal.</a>
