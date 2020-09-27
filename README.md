@@ -21,3 +21,4 @@ This are 2 Scattertext examples. Download each html and open it local. Can take 
 <a href="https://github.com/seba54322/dark_lyrics_analysis/blob/master/power_black_LOPriorvsLog_pretty.html" target="_blank">More sophisticated Scattertext visualization of words comparisson of Power Metal vs Black Metal </a>36MB
 
 
+res
