@@ -22,7 +22,7 @@ The raw word frequency can be visualized as histograms (recommended for formal r
 A LDA model was trained with Gensim, and then visualized with pyLDAvis. This kind of visualization is interactive, and you can see the terms inside a topic as well as its frequency within each topic. Click on the image to interact. The LDA was trained on the whole english corpus. 
 
 #### Whole DarkLyrics interactive topic model visualization
-![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/lda_viz.png)(https://github.com/seba54322/dark_lyrics_analysis/lda_viz/new_lda_total_english.html)
+![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/lda_viz.png)(http://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/lda_viz/new_lda_total_english.html)
 
 ### Embedding Exploration 
 
@@ -50,4 +50,4 @@ Italy 1002|Germany 755
 Click on the image and wait for interact with the data. 
 
 #### Scatterplot of word frequency, normalized by Log Odds Ratio and Log Frequency for Power Metal and Black Metal, for the top 5 countries
-![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/st_top_countries_power_black_02.png)(https://github.com/seba54322/dark_lyrics_analysis/html_scattertext_files/st_top_countries_power_black_02.html)
+![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/st_top_countries_power_black_02.png)(http://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/html_scattertext_files/st_top_countries_power_black_02.html)
