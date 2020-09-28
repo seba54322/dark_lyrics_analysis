@@ -9,7 +9,15 @@ The analysis were made in the english subset of lyrics.
 
 The notebooks were created to explore the meaning behind a collection of lyrics of Metal Music, and to apply natural language techniques from basic to advanced while learning in practice.
 
-The global process starts with a collection of txt files, each of one has a full album on it, inside a folder for each artist: artist/lyrics_album_n.txt
+The global process starts with a collection of txt files, with album lyrics, inside a folder for each artist: artist/lyrics_album_n.txt
+
+### LDA MODEL
+
+A LDA model was trained with Gensim, and then visualized with pyLDAvis. This kind of visualization is interactive, and you can see the terms inside a topic as well as its frequency within each topic. Click on the image to interact. 
+
+
+
+
 
 Some embeddings were made with 10 random words
 ![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/similar_words.png)
