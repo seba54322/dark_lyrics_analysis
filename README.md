@@ -2,9 +2,9 @@
 
 ## Resume
 
-The notebooks presented here, were created to explore different techniques of natural language processing and analyze concepts and meanings behind the lyrics of hundreds of metal songs from the DarkLyrics collection. The data was collected in the year 2014.
+The notebooks presented here, were created to explore different techniques of natural language processing and at the same time, analyze concepts and meanings behind the lyrics of hundreds of metal songs from the DarkLyrics collection. The data was collected in the year 2014, and then expanded with manual annotations for country of origin and subgenre for Power Metal and Black Metal bands.
 <br>
-Comparisons between subgenres of Power Metal and Black Metal were made, using wordclouds, LDA, ScatterText and some embeddings manipulation. 
+Comparisons between subgenres of Power Metal and Black Metal were made, using word clouds, LDA, Scattertext and some embeddings manipulation. 
 
 All the analysis were made with the english subset of lyrics and is work in progress.
 
