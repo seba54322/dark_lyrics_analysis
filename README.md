@@ -13,13 +13,13 @@ The analysis were made in the english subset of lyrics and is work in progress.
 
 The raw word frequency can be visualized as histograms (recommended for formal reports) and word clouds, which are a good option when the visual aspect is more important than the informative value, as in this case. The netxt image contains the top 50 frequent terms in the italian power metal corpus. 
 
-[![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/Ingl%C3%A9s%2C%20Power%20Metal%2C%20Italia.png)]
+[![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/wordclouds/Ingl%C3%A9s%2C%20Power%20Metal%2C%20Italia.png)]
 
 ### LDA MODEL
 
 A LDA model was trained with Gensim, and then visualized with pyLDAvis. This kind of visualization is interactive, and you can see the terms inside a topic as well as its frequency within each topic. Click on the image to interact. The LDA was trained on the whole english corpus. 
 
-[![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/lda_viz.png)](https://github.com/seba54322/dark_lyrics_analysis/lda_viz/new_lda_total_english.html)
+![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/lda_viz.png)(https://github.com/seba54322/dark_lyrics_analysis/lda_viz/new_lda_total_english.html)
 
 ### Embedding Exploration 
 
