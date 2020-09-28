@@ -3,7 +3,7 @@
 ## Resume
 
 The notebooks presented here, were created to explore different techniques of natural language processing and at the same time, analyze concepts and meanings behind the lyrics of hundreds of metal songs from the DarkLyrics collection. The data was collected in the year 2014, and then expanded with manual annotations for country of origin and subgenre for Power Metal and Black Metal bands.
-<br>
+
 Comparisons between subgenres of Power Metal and Black Metal were made, using word clouds, LDA, Scattertext and some embeddings manipulation. 
 
 All the analysis were made with the english subset of lyrics and is work in progress.
@@ -35,17 +35,17 @@ A word embedding model was created with Gensim for the whole english corpus, and
 
 Scattertext is a tool available for text comparison which produces beautiful visualizations, using different frequency normalization methods.
 
-All the HTML files, produced by the notebooks, are heavy, and the first step is to open it and wait for the browsser to load the data, wich can take time. After loading, an interactive file is avaliable in the browser, and when a word is selected, you can read the actual documments containing that particular word (hence, the amount of time loading). 
+All the HTML files, produced by the notebooks, are heavy, and the first step is to open it and wait for the browser to load the data, wich can take time. After loading, an interactive file is avaliable in the browser, and when a word is selected, you can read the actual documments containing that particular word (hence, the amount of time loading). 
 
 The following depicted image is a comparison of Power Metal and Black Metal, considering the most distinctive terms for one category, given the other. For one of the datasets, the number of total songs per country was filtered according to the top 5 of countries for each genre. 
 
 Power Metal lyrics, top 5 countries | Black Metal lyrics, top 5 countries
 --- | ---
-Germany 3494|Norway 2388
-United States 2406|Sweden 1517
-Sweden 1592|United States 999
-Finland 1436|Finland 943
-Italy 1002|Germany 755
+Germany: 3494|Norway: 2388
+United States: 2406|Sweden: 1517
+Sweden: 1592|United States: 999
+Finland: 1436|Finland: 943
+Italy: 1002|Germany: 755
   
 Click on the image and wait for interact with the data. 
 
