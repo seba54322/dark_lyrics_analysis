@@ -40,11 +40,12 @@ All the HTML files, produced by the notebooks, are heavy, and the first step is 
 The following depicted image is a comparison of Power Metal and Black Metal, considering the most distinctive terms for one category, given the other. For one of the datasets, the number of total songs per country was filtered according to the top 5 of countries for each genre. 
 
 Power Metal lyrics, top 5 countries | Black Metal lyrics, top 5 countries
-  Germany 3494|Norway 2388
-  United States 2406|Sweden 1517
-  Sweden 1592|United States 999
-  Finland 1436|Finland 943
-  Italy 1002|Germany 755
+--- | ---
+Germany 3494|Norway 2388
+United States 2406|Sweden 1517
+Sweden 1592|United States 999
+Finland 1436|Finland 943
+Italy 1002|Germany 755
   
 Click on the image and wait for interact with the data. 
 
