@@ -13,7 +13,7 @@ The analysis were made in the english subset of lyrics and is work in progress.
 
 The raw word frequency can be visualized as histograms (recommended for quick report) and word clouds, which are a good option when the visual aspect is more important than the informative value, as is this case. By filtering the dataset, different words frequencies appear. 
 
-[![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/Ingl%C3%A9s%2C%20Power%20Metal%2C%20Italia.png.png)]
+[![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/Ingl%C3%A9s%2C%20Power%20Metal%2C%20Italia.png)]
 
 ### LDA MODEL
 
