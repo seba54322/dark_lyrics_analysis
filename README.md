@@ -41,11 +41,11 @@ The following depicted image is a comparison of Power Metal and Black Metal, con
 
 Power Metal lyrics, top 5 countries | Black Metal lyrics, top 5 countries
 --- | ---
-Germany 3494|Norway 2388
-United States 2406|Sweden 1517
-Sweden 1592|United States 999
-Finland 1436|Finland 943
-Italy 1002|Germany 755
+Germany: 3494|Norway: 2388
+United States: 2406|Sweden: 1517
+Sweden: 1592|United States: 999
+Finland: 1436|Finland: 943
+Italy: 1002|Germany: 755
   
 Click on the image and wait for interact with the data. 
 
