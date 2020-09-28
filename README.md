@@ -35,7 +35,7 @@ A word embedding model was created with Gensim for the whole english corpus, and
 
 Scattertext is a tool available for text comparison which produces beautiful visualizations, using different frequency normalization methods.
 
-All the HTML files, produced by the notebooks, are heavy, and the first step is to open it and wait for the browsser to load the data, wich can take time. After loading, an interactive file is avaliable in the browser, and when a word is selected, you can read the actual documments containing that particular word (hence, the amount of time loading). 
+All the HTML files, produced by the notebooks, are heavy, and the first step is to open it and wait for the browser to load the data, wich can take time. After loading, an interactive file is avaliable in the browser, and when a word is selected, you can read the actual documments containing that particular word (hence, the amount of time loading). 
 
 The following depicted image is a comparison of Power Metal and Black Metal, considering the most distinctive terms for one category, given the other. For one of the datasets, the number of total songs per country was filtered according to the top 5 of countries for each genre. 
 
