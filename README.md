@@ -56,3 +56,9 @@ Click on the image and wait for interact with the data.
 
 #### Scatterplot of word frequency, normalized by Log Odds Ratio and Log Frequency for Black Metal from Sweden and Black Metal from Norway
 ![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/st_black_sweden_norway.png)(http://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/html_scattertext_files/st_sweden_norway_02.html)
+
+
+
+#### Scatterplot of word frequency, normalized by "Corner Scores" and Log Frequency for Power Metal from United States and Power Metal from Germany
+![](https://github.com/seba54322/dark_lyrics_analysis/blob/master/images/st_power_usa_germany.png)(http://htmlpreview.github.io/?https://github.com/seba54322/dark_lyrics_analysis/blob/master/html_scattertext_files/st_usa_germany_03.html)
+
